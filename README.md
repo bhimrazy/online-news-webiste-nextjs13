@@ -1,36 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Online News Site
 
-## Getting Started
+[![GitHub License](https://img.shields.io/github/license/bhimrazy/online-news-site)](https://github.com/bhimrazy/online-news-site/blob/main/LICENSE)
 
-First, run the development server:
+This is an online news site built using Next.js 13 and Tailwind CSS. The site is designed based on a reference design from Dribbble.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+- Responsive design using Tailwind CSS
+- Server-side rendering with Next.js 13
+- Latest news feed on the home page
+- Categorized news sections
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Installation
 
-## Learn More
+1. Clone the repository: `git clone https://github.com/bhimrazy/online-news-site.git`
+2. Navigate to the project directory: `cd online-news-site`
+3. Install dependencies: `npm install`
 
-To learn more about Next.js, take a look at the following resources:
+## Usage
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Start the development server: `npm run dev`
+2. Open the browser and go to `http://localhost:3000` to view the site
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contributing
 
-## Deploy on Vercel
+Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
