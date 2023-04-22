@@ -17,14 +17,13 @@ This is an online news site built using Next.js 13 and Tailwind CSS. The site is
 ## Features
 
 - Responsive design using Tailwind CSS
-- Server-side rendering with Next.js 13
-- Latest news feed on the home page
+- Next.Js App Directory
 - Categorized news sections
 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/bhimrazy/online-news-webiste-nextjs13.git`
-2. Navigate to the project directory: `cd online-news-site`
+2. Navigate to the project directory: `cd online-news-webiste-nextjs13`
 3. Install dependencies: `npm install`
 
 ## Usage
