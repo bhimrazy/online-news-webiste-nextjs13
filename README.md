@@ -1,8 +1,9 @@
 # Online News Site
 
-
-
 This is an online news site built using Next.js 13 and Tailwind CSS. The site is designed based on a reference design from [Dribbble](https://dribbble.com/shots/17882771-Online-News-Website).
+
+## Screenshot
+![News Page](https://user-images.githubusercontent.com/46085301/233787579-38c0f49d-5fae-4d09-81fc-cc34ea9b5257.png)
 
 ## Table of Contents
 
@@ -10,7 +11,6 @@ This is an online news site built using Next.js 13 and Tailwind CSS. The site is
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Screenshots](#screenshots)
 - [Author](#author)
 - [License](#license)
 
@@ -35,10 +35,6 @@ This is an online news site built using Next.js 13 and Tailwind CSS. The site is
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
-
-## Screenshots
-
-![News Page](https://user-images.githubusercontent.com/46085301/233787279-8287bd31-2463-4846-9e37-b4c65d33828e.png)
 
 ## Author
 
