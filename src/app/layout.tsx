@@ -10,7 +10,7 @@ const poppins = Poppins({
 
 export const metadata = {
   title: "Online News Site",
-  description: "Online News Site",
+  description: "Online News Site | Nextjs 13",
 };
 
 export default function RootLayout({
