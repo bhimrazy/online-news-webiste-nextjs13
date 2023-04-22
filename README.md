@@ -1,6 +1,6 @@
 # Online News Site
 
-[![GitHub License](https://img.shields.io/github/license/bhimrazy/online-news-site)](https://github.com/bhimrazy/online-news-site/blob/main/LICENSE)
+[![GitHub License](https://img.shields.io/github/license/bhimrazy/online-news-webiste-nextjs13)](https://github.com/bhimrazy/online-news-webiste-nextjs13/blob/main/LICENSE)
 
 This is an online news site built using Next.js 13 and Tailwind CSS. The site is designed based on a reference design from Dribbble.
 
@@ -21,7 +21,7 @@ This is an online news site built using Next.js 13 and Tailwind CSS. The site is
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/bhimrazy/online-news-site.git`
+1. Clone the repository: `git clone https://github.com/bhimrazy/online-news-webiste-nextjs13.git`
 2. Navigate to the project directory: `cd online-news-site`
 3. Install dependencies: `npm install`
 
