@@ -1,8 +1,8 @@
 # Online News Site
 
-[![GitHub License](https://img.shields.io/github/license/bhimrazy/online-news-webiste-nextjs13)](https://github.com/bhimrazy/online-news-webiste-nextjs13/blob/main/LICENSE)
 
-This is an online news site built using Next.js 13 and Tailwind CSS. The site is designed based on a reference design from Dribbble.
+
+This is an online news site built using Next.js 13 and Tailwind CSS. The site is designed based on a reference design from [Dribbble](https://dribbble.com/shots/17882771-Online-News-Website).
 
 ## Table of Contents
 
