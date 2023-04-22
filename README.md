@@ -10,6 +10,8 @@ This is an online news site built using Next.js 13 and Tailwind CSS. The site is
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Screenshots](#screenshots)
+- [Author](#author)
 - [License](#license)
 
 ## Features
@@ -33,6 +35,14 @@ This is an online news site built using Next.js 13 and Tailwind CSS. The site is
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs or feature requests.
+
+## Screenshots
+
+![News Page](https://user-images.githubusercontent.com/46085301/233787279-8287bd31-2463-4846-9e37-b4c65d33828e.png)
+
+## Author
+
+This project was created by Bhimraj Yadav ([@bhimrazy](https://github.com/bhimrazy)).
 
 ## License
 
