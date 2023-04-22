@@ -21,7 +21,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={poppins.className}>
-        <div className="flex flex-col min-h-screen bg-gradient-to-tr from-[#f7e1cd] via-[#f9f4ec] to-[#fae3db] ">
+        <div className="flex px-8 flex-col min-h-screen bg-gradient-to-tr from-[#f7e1cd] via-[#f9f4ec] to-[#fae3db] ">
           <Header />
           {children}
         </div>

@@ -12,15 +12,15 @@ export default function NewsGrid({ category }: Props) {
     <>
       {news && (
         <div className="grid grid-cols-1 gap-14 lg:grid-cols-8">
-          <div className="lg:col-span-2 flex flex-col divide-y-2 divide-stone-300 space-y-4">
+          <div className="lg:col-span-2 order-3 lg:order-none flex flex-col divide-y-2 divide-stone-300 space-y-4">
             <Card article={news[0]} />
             <Card article={news[1]} />
           </div>
-          <div className="lg:col-span-4 flex flex-col divide-y-2 divide-stone-300 space-y-4">
+          <div className="lg:col-span-4 order-2 lg:order-none flex flex-col divide-y-2 divide-stone-300 space-y-4">
             <Card article={news[2]} />
           </div>
-          <div className="lg:col-span-2 flex flex-col divide-y-2 divide-stone-300 space-y-4">
-            <div className="flex flex-col text-white/80 bg-primary space-y-4 p-6">
+          <div className="lg:col-span-2 order-1 lg:order-none flex flex-col divide-y-2 divide-stone-300 space-y-4">
+            <div className="flex flex-col text-white/80 bg-primary space-y-4 mt-6 p-6">
               <p className="uppercase flex justify-between text-sm font-light">
                 <span>Number of the day</span> <span>----------</span>
               </p>

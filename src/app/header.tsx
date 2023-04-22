@@ -45,7 +45,7 @@ export default function Header() {
             />
           </svg>
         </span>
-        <nav className="flex">
+        <nav className="hidden lg:flex">
           <ul className="flex flex-row space-x-10">
             {header &&
               header.tabs.map((tab, index) => (

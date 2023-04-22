@@ -31,7 +31,7 @@ export default function NewsContent() {
 
   return (
     <section className="flex flex-col">
-      <div className="flex flex-row space-x-4 py-4">
+      <div className="flex flex-row flex-wrap gap-4 py-4">
         {tabs &&
           tabs.map((tab, index) => (
             <span
