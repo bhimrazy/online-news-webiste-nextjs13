@@ -9,8 +9,8 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Online News App",
-  description: "Online News app",
+  title: "Online News Site",
+  description: "Online News Site",
 };
 
 export default function RootLayout({
